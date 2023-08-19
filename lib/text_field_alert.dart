@@ -1,5 +1,3 @@
-// v1: No need to pass a TextEditingController.
-
 import 'package:flutter/material.dart';
 
 Future<String?> getInputText(BuildContext context, String title) async {
